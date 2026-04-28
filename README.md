@@ -37,6 +37,8 @@ Since this is a hobby project, I am sharing the **Build Script** rather than the
 
 ---
 
+You can dowload the iso with this link: https://drive.google.com/file/d/1feCy96xkDLpCPU4yAK2wovpzy1SV8OGI/view?usp=sharing
+
 ## 🤝 Contributing
 Feel free to fork this repo, suggest new packages for the "Solkie Stack," or report issues you find during the build process!
 
